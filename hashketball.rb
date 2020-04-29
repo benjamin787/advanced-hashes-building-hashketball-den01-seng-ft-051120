@@ -111,3 +111,5 @@ def game_hash
         }
         ]
   }
+  stats 
+end 
